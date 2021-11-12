@@ -20,6 +20,7 @@ The dataframe with the faces and expressions is split by expression. The datafra
 A basic CNN is defined and compiled using tensorflow. Please note: the model seen here is a simplified version of the one I actually used. I simplified it before posting to protect the privacy of the model used by Emsyte.
 
 ![image](https://user-images.githubusercontent.com/83524079/141444811-c1f2ff14-9a2b-40e6-977a-22c7c3c893fa.png)
+
 The accuracy improved greatly with each epoch. For the first attempt to train the model, I was pleasantly surprised by the results.
 
 ## Future work
